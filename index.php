@@ -10,4 +10,6 @@
  foreach ($names as $key => $value) {
     echo "<br>".$value;
 }
+ echo "<br>holaaaa";
+
 ?>
