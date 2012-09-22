@@ -10,7 +10,7 @@
  foreach ($names as $key => $value) { $i++;
     echo "<br>".$i." ".$value;
 }
- echo "<br>holaaaa";
+ echo "<br>holaaaa";  
  
  
 
@@ -23,3 +23,4 @@
     <li><a href="<?php echo $value ?>.php"><?php echo $value ?></a></li>
     <?php }?>
 </ul>
+gdfgdf
