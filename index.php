@@ -6,8 +6,8 @@
  */
 
  $names = array("juan","gustavo","ladislao","anthony");
- 
- foreach ($names as $key => $value) {
-    echo "<br>".$value;
+ $i = 0;
+ foreach ($names as $key => $value) { $i++;
+    echo "<br>".$i." ".$value;
 }
 ?>
