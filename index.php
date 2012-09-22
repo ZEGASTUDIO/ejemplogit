@@ -11,5 +11,9 @@
     echo "<br>".$i." ".$value;
 }
  echo "<br>holaaaa";
+ 
+ 
+ $nombre="gustavo";
+ echo $nombre;
 
 ?>
